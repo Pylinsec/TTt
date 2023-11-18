@@ -1,1 +1,6 @@
 آموزش اتصال به سایت گیتاب 
+
+git init 
+git add .
+git commit -m 'sending 1'
+git push
